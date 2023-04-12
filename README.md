@@ -1,5 +1,5 @@
 # Tutorium zu "Mathematische Grundlagen der Computerlinguistik"
 
 ## Downloads
-[Skript](https://HuixinC.github.io/Tutorium-MatheGrundColing/MathGrundlagen.pdf)
-[Uebung](https://HuixinC.github.io/Tutorium-MatheGrundColing/MatheÜbungsblatt1.pdf)
+[Skript](https://drive.google.com/file/d/1qSatd5AM8Ef-IG3_h9wX4JuvrEMBVsUt/view?usp=sharing)
+[Uebung](https://drive.google.com/file/d/1utETgnINUuMskGGSYOiwFV_UkpIgna4u/view?usp=sharing)
