@@ -1,7 +1,7 @@
 
 
 
-### Info
+## Info
 
 - Tutorinnen: Huixin Chen und Lin Shui
 - Kontakt: mathe_tutor_ss23@protonmail.com
@@ -12,7 +12,7 @@
 
 ## Aktuelles
 
-- :heavy_exclamation_mark: [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97): Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Freitag(21.04.2023).
+- :heavy_exclamation_mark: [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97) :heavy_exclamation_mark: : Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Freitag(21.04.2023).
 
 ## Inhalte
 
