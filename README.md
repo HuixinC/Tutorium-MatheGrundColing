@@ -9,7 +9,7 @@
 
 ## Aktuelles
 
-- ❗ [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97) ❗ : Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Freitag(21.04.2023).
+- ❗ [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97) ❗ : Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Mittwoch(19.04.2023).
 
 ## Inhalte
 
