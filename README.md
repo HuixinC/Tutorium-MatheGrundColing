@@ -9,6 +9,7 @@
 
 ## Aktuelles
 
+- Abgabe der Hausaufgaben: in Gruppen aus 2-3 Studierenden und diese bis Dienstag 14:00 an oben genannter Email schicken.
 - ❗ [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97) ❗ : Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Mittwoch(19.04.2023).
 
 ## Inhalte
