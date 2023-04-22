@@ -2,8 +2,9 @@
 
 - Tutorinnen: Huixin Chen und Lin Shui
 - Kontakt: mathe_tutor_ss23@protonmail.com
-- Zeit: TBA
-- Raum: TBA
+- Termine: 
+    - Mo. 16-18 c.t. Oettingenstr. 67 - Raum 131
+    - Fr. 16-18 c.t. Zoom
 - [Fragensammlung](https://docs.google.com/document/d/1pYyQFhFfl74gQXLPbyoFACfctRrGZpNLzKm6GZAW12U/edit?usp=sharing): Bei Fragen bitte die min. 1 Tag vor dem Tutorium stellen.
 - [Vorlesungsseite](https://www.cis.lmu.de/people/Schulz/pw/)
 
