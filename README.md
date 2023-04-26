@@ -4,7 +4,7 @@
 - Kontakt: mathe_tutor_ss23@protonmail.com
 - Termine: 
     - Mo. 16-18 c.t. Oettingenstr. 67 - Raum 131
-    - Fr. 16-18 c.t. Zoom
+    - Fr. 16-18 c.t. [Zoom](https://lmu-munich.zoom.us/j/65219852358?pwd=NUk0VkNnbnI2a1JuTnlpSFcycTRpUT09)
 - [Fragensammlung](https://docs.google.com/document/d/1pYyQFhFfl74gQXLPbyoFACfctRrGZpNLzKm6GZAW12U/edit?usp=sharing): Bei Fragen bitte die min. 1 Tag vor dem Tutorium stellen.
 - [Vorlesungsseite](https://www.cis.lmu.de/people/Schulz/pw/)
 
