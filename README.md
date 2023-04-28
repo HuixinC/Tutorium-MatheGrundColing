@@ -10,15 +10,16 @@
 
 ## Aktuelles
 
+- Das Tutorium am 01.05.2023 wird wegen Feiertag abgesagt.
 - Abgabe der Hausaufgaben: in Gruppen aus 2-3 Studierenden und diese bis Dienstag 14:00 an oben genannter Email schicken.
 - ❗ [Umfrage](https://xoyondo.com/ap/bkfsjeIfWSDAY97) ❗ : Bitte für euch passende Termine und Formaten auswählen, spätestens bis 12 Uhr Mittwoch(19.04.2023).
 
 ## Inhalte
 
-| Woche | Themen | Inhalte |
+| Woche | Themen | Erklärungsblätter* |
 | :-------------: | :-------------: | :-------------: |
 | 1 | Organisatorisches  | - |
-| 2 | Aussagen und Mengen | - |
+| 2 | Aussagen und Mengen | [Übung1](https://drive.google.com/file/d/1vRlIYu23EOOnWs-rjUpMp1l5tWbzIyGs/view?usp=sharing) |
 | 3 | - | - |
 | 4 | - | - |
 | 5 | - | - |
@@ -31,3 +32,4 @@
 | 12 | - | - |
 | 13 | - | - |
 | 14 | - | - |
+* Die Erklärungsblätter kommen ursprünglich von Elisa (unsere Vorgängerin). Danke ihr!
