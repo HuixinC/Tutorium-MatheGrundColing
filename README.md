@@ -16,7 +16,7 @@
 
 ## Inhalte
 
-| Woche | Themen | Erklärungsblätter* |
+| Woche | Themen | Erklärungsblätter\* |
 | :-------------: | :-------------: | :-------------: |
 | 1 | Organisatorisches  | - |
 | 2 | Aussagen und Mengen | [Übung1](https://drive.google.com/file/d/1vRlIYu23EOOnWs-rjUpMp1l5tWbzIyGs/view?usp=sharing) |
@@ -32,4 +32,5 @@
 | 12 | - | - |
 | 13 | - | - |
 | 14 | - | - |
-* Die Erklärungsblätter kommen ursprünglich von Elisa (unsere Vorgängerin). Danke ihr!
+
+\* Die Erklärungsblätter kommen ursprünglich von Elisa (unsere Vorgängerin). Danke ihr!
