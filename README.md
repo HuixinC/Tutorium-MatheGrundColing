@@ -21,7 +21,7 @@
 | :-------------: | :-------------: | :-------------: |
 | 1 | Organisatorisches  | - |
 | 2 | Aussagen und Mengen | [Übung1](https://drive.google.com/file/d/1vRlIYu23EOOnWs-rjUpMp1l5tWbzIyGs/view?usp=sharing) |
-| 3 | - | - |
+| 3 | Mengen und vollständige Induktion | [Übung2](https://drive.google.com/file/d/1WbgaBpOoBwfOLwpoeinVzjuE0IcZMAPs/view?usp=sharing) |
 | 4 | - | - |
 | 5 | - | - |
 | 6 | - | - |
