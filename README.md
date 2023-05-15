@@ -10,6 +10,7 @@
 
 ## Aktuelles
 
+- Das Tutorium für diese Woche am Freitag (19.05.2023) muss leider ausfallen. Als Ersatz biete ich nächste Woche ein zusätzliches Tutorium an. Ich werde hierzu eine Umfrage zum genauen Zeitpunkt erstellen. ❗ [Umfrage](https://xoyondo.com/dp/JntdQI3b2K3bmBh) ❗Bitte wählen Sie für sich passende Termine aus und geben Sie Ihre Auswahl bis spätestens 12 Uhr am Donnerstag, den 18.05.2023 ab. Vielen Dank!
 - Das Tutorium am 01.05.2023 wird wegen Feiertag abgesagt.
 - Die Erklärungsblätter kommen ursprünglich von Elisa (unsere Vorgängerin). Danke ihr!
 - Abgabe der Hausaufgaben: in Gruppen aus 2-3 Studierenden und diese bis Dienstag 14:00 an oben genannter Email schicken.
