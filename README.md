@@ -10,7 +10,7 @@
 
 ## Aktuelles
 
-- Das Zusatztutorium am Freitag, den 26.05.2023, um 12 Uhr statt. Bitte klicken Sie auf den folgenden Link, um daran teilzunehmen. [Zoom](https://lmu-munich.zoom.us/j/5963835659?pwd=dXJaMFVDWWxYY21UTlF3MU9zMlg4UT09)
+- Das Zusatztutorium findet am Freitag, den 26.05.2023, um 12 Uhr statt. Bitte klicken Sie auf den folgenden Link, um daran teilzunehmen. [Zoom](https://lmu-munich.zoom.us/j/5963835659?pwd=dXJaMFVDWWxYY21UTlF3MU9zMlg4UT09)
 - Das Tutorium für diese Woche am Freitag (19.05.2023) muss leider ausfallen. Als Ersatz biete ich nächste Woche ein zusätzliches Tutorium an. Ich werde hierzu eine Umfrage zum genauen Zeitpunkt erstellen. ❗ [Umfrage](https://xoyondo.com/dp/JntdQI3b2K3bmBh) ❗Bitte wählen Sie für sich passende Termine aus und geben Sie Ihre Auswahl bis spätestens 12 Uhr am Donnerstag, den 18.05.2023 ab. Vielen Dank!
 - Das Tutorium am 01.05.2023 wird wegen Feiertag abgesagt.
 - Die Erklärungsblätter kommen ursprünglich von Elisa (unsere Vorgängerin). Danke ihr!
