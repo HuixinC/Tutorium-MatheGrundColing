@@ -29,7 +29,7 @@
 | 4 | Relation | [Übung3](https://drive.google.com/file/d/1JMwv0uIfwHNOvBRgT1uJdYnBLlWnTfiX/view?usp=sharing) |
 | 5 | Funktion | [Übung4](https://drive.google.com/file/d/1XOa7JUDeJDO3MKvWC1GqisxO23TiUho7/view?usp=share_link) |
 | 6 | Eigenschaften von Relation | [Übung5](https://drive.google.com/file/d/1uTk8RQlvlNtgRPw5i1VFZR4pZdeLPWk7/view?usp=sharing) |
-| 7 | - | - |
+| 7 | Ordnungsrelation | [Übung6](https://drive.google.com/file/d/1oUsKj0ObLDpagYmkiQQZ-GOgdHW1URPS/view?usp=sharing) |
 | 8 | - | - |
 | 9 | - | - |
 | 10 | - | - |
