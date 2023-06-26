@@ -19,7 +19,7 @@
 
 ## Inhalte
 
-- [Tutorium Notizbuch](https://drive.google.com/file/d/1VsVq_MlpTkF4UOZWTEav56y5qCBw1ur-/view?usp=sharing)
+- [Tutorium Notizbuch](https://drive.google.com/file/d/1beN_E9bQuV6kLlyGZXYlTPGIlM9uHTqr/view?usp=share_link)
 
 | Woche | Themen | Erklärungsblätter\* |
 | :-------------: | :-------------: | :-------------: |
