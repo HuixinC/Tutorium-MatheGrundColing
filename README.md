@@ -32,8 +32,5 @@
 | 7 | Ordnungsrelation | [Übung6](https://drive.google.com/file/d/1oUsKj0ObLDpagYmkiQQZ-GOgdHW1URPS/view?usp=sharing) |
 | 8 | Hüllenbildung | [Übung7](https://drive.google.com/file/d/1MPv_GZt3feJWEA8QBEFs083zBYpzgzyb/view?usp=sharing) |
 | 9 | Homomorphismus | [Übung8](https://drive.google.com/file/d/154Q5i57oMUKhfWv9O6Vwfml6aW_ETl3c/view?usp=share_link) |
-| 10 | - | - |
+| 10 | Kongruenzrelation | [Übung9](https://drive.google.com/file/d/151CfDGYWLY9gns-XJz5R75DPPiX47izB/view?usp=share_link) |
 | 11 | - | - |
-| 12 | - | - |
-| 13 | - | - |
-| 14 | - | - |
